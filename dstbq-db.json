@@ -1,0 +1,929 @@
+{
+    "Questions":[
+        {
+          "id": 1,
+          "question": "(Gen 6:15) The dimension of the ark that Noah built was ______ in length, width and height respectively in cubit.",
+          "answer": "300,50,30"
+        },
+        {
+          "id": 2,
+          "question": "Which chapter of Acts is the shortest chapter and with how many verses?",
+          "answer": "Act Chapter 6, 15 Verses"
+        },
+        {
+          "id": 3,
+          "question": "Which chapter of Genesis is the longest chapter and with how many verses?",
+          "answer": "Chapter 24, 67 verses."
+        },
+        {
+          "id": 4,
+          "question": "[Gen 21:5] How old was Abraham when Isaac was born?",
+          "answer": "100"
+        },
+        {
+          "id": 5,
+          "question": "[Act 18:18] After departing Corinth, Paul sailed for Syria, Priscilla and Aquila were with them. He had his hair cut at ____.",
+          "answer": "CENCHREA"
+        },
+        {
+          "id": 6,
+          "question": "[Gen 6:14] God instructed Noah to make for himself an ark of ______ wood.",
+          "answer": "Gopher"
+        },
+        {
+          "id": 7,
+          "question": "Peter made the lame man walk by their power True/false",
+          "answer": "False"
+        },
+        {
+          "id": 8,
+          "question": "(Gen 6:14) The inside and out of the ark Noah did, now was to cover with ______ .",
+          "answer": "pitch"
+        },
+        {
+          "id": 9,
+          "question": "The Bible Book of Genesis has how many chapters.",
+          "answer": "50"
+        },
+        {
+          "id": 10,
+          "question": "(Gen 5:28)_______was Noah’s father.",
+          "answer": "Lamech"
+        },
+        {
+          "id": 11,
+          "question": "[ACT 7:23] Still from Stephen’s Address; How old was Moses when he defended his kinsman, which led to a murder.",
+          "answer": "40 ( FORTY ) YEARS"
+        },
+        {
+          "id": 12,
+          "question": "(Gen 11:32) The days of Terah, Abram’s father was ______ years and he died in Haran.",
+          "answer": "205"
+        },
+        {
+          "id": 13,
+          "question": "(Gen 13:18) When Lot moved to Sodom, Abram moved his tent, and went and dwelt by the terebinth trees of ______, which are at Hebron; and there built an altar to the lord.",
+          "answer": "Mamre"
+        },
+        {
+          "id": 14,
+          "question": "[Act 13: 22]What's King David father name?",
+          "answer": "Jesse"
+        },
+        {
+          "id": 15,
+          "question": "(Gen 12:10-20) Why did the Lord plague Pharaoh and his household with great plagues? Even when Pharaoh treated Abram well.",
+          "answer": "because of Abram’s wife Sarai that he took into his house"
+        },
+        {
+          "id": 16,
+          "question": "(Gen 11:29) Milcah was _______wife.",
+          "answer": "Nahor’s"
+        },
+        {
+          "id": 17,
+          "question": "[ACT 26:24] Who made this statement with a loud voice,” Paul you are beside yourself! Much learning is driving you mad!”",
+          "answer": "Governor Felix"
+        },
+        {
+          "id": 18,
+          "question": "(Gen 11:27) _______ was the father of Lot.",
+          "answer": "Haran"
+        },
+        {
+          "id": 19,
+          "question": "[Gen 15:2-4] ______of Damascus was a slave born in Abram’s house that he thought would be his heir before Ishmael and Isaac were born.",
+          "answer": "Eliezer"
+        },
+        {
+          "id": 20,
+          "question": "[Act 26:28] “You almost persuaded me to become a Christian.” Who made this statement?",
+          "answer": "KING AGRIPPA"
+        },
+        {
+          "id": 21,
+          "question": "[Gen 11:27] Abram is from _____ ?",
+          "answer": "Ur of the Chaldeans"
+        },
+        {
+          "id": 22,
+          "question": "[Gen 16:15] _______ is Ishmael’s mother.",
+          "answer": "Hagar"
+        },
+        {
+          "id": 23,
+          "question": "After the eleven apostles casted lot. Who did it fall upon as Judas replacement?",
+          "answer": "Matthias (ACT 1:26)"
+        },
+        {
+          "id": 24,
+          "question": "[Gen 16;3] Sarai’s maid who bore Abram a son, was a/an ______ .",
+          "answer": "Egyptian"
+        },
+        {
+          "id": 25,
+          "question": "[Gen 31:48-50] The heap of witness between Jacob and Laban as they made a covenant by gathering stones. Laban called it Jegar-Sahadutha, but Jacob called it ______ .",
+          "answer": "Galeed"
+        },
+        {
+          "id": 26,
+          "question": "[Act 16:1]\"What is the name of the Disciple Paul met in Lystra, that has a Jewish mother and Greek Father\"?",
+          "answer": "Timothy"
+        },
+        {
+          "id": 27,
+          "question": "[Gen 32:1-2] Jacob went on his way and the angels of God met him; and when Jacob saw them he said,”This is God’s camp!” So he called the name of the place ______ .",
+          "answer": "Mahanaim"
+        },
+        {
+          "id": 28,
+          "question": "[Gen 32:30] Jacob called the name of the place, _______, “for I have seen God face to face, and my life is preserved.”",
+          "answer": "Peniel"
+        },
+        {
+          "id": 29,
+          "question": "[Act 17:19] Who took Paul to the Areopagus, saying,” May we know what this new doctrine is of which you speak?”",
+          "answer": "The Philosophers"
+        },
+        {
+          "id": 30,
+          "question": "[Gen 32:30] Jacob called the name of the place, _______, “for I have seen God face to face, and my life is preserved.”",
+          "answer": "Peniel"
+        },
+        {
+          "id": 31,
+          "question": "[ACT 17:31] Who will judge the world in righteousness?",
+          "answer": "THE LORD JESUS CHRIST"
+        },
+        {
+          "id": 32,
+          "question": "[Gen 24:9] When Abraham instructed his servant to take a wife for his son Isaac from his country and family. His servant said to him,\" Suppose the woman is unwilling to follow me to this land?\" What should he do?",
+          "answer": "Bring his son back to the land from which he came."
+        },
+        {
+            "id": 33,
+            "question": "[Act24:24] What is the name of Governor Felix’s wife?",
+            "answer": "DRUSILLA"
+        },
+        {
+            "id": 34,
+            "question": "[Gen 30:8] ______ is Naphtali’s mother.",
+            "answer": "Bilhah"
+        },
+         {
+            "id": 35,
+            "question": "[Act 9:36] translate the named Tabitha.",
+            "answer": "Dorcas"
+        },
+        {
+            "id": 36,
+            "question": "[Gen 30:6] Rachel said, 'God has judged me, and has also heard my voice and given me a son:' therefore she called his name ______",
+            "answer": "Dan"
+        },
+        {
+            "id": 37,
+            "question": "[Gen 30:11] Leah said, 'A troop comes,' so she called his name ______.",
+            "answer": "Gad"
+        },
+        {
+            "id": 38,
+            "question": "[Act 19:19] What is the total value of the Magic books brought together and burned in the sight of all in Ephesus after they repent?",
+            "answer": "Fifty thousands of pieces silver"
+        },
+        {
+            "id": 39,
+            "question": "[Gen 35:21-22] After Rachel’s death, Israel journeyed on, and pitched his tent beyond the tower of Eder. There _______went and lay with Bilhah his father’s concubine. Reuben",
+            "answer": "Reuben"
+        },
+        {
+            "id": 40,
+            "question": "[Gen 35:19] Where was Rachel buried?",
+            "answer": "On the way to Euphrath"
+        },
+        {
+            "id": 41,
+            "question": "In a single guess, Quote the passage that says 'Now on the first day of the week, when the disciples came together to break bread.'",
+            "answer": "Acts 20:7"
+        },
+        {
+            "id": 42,
+            "question": "[Gen 35:8] ______, Rebekah’s nurse, died and was buried; so the name of it was called Allon-bacuth.",
+            "answer": "Deborah"
+        },
+        {
+            "id": 43,
+            "question": "[Gen 1:16] God created the stars on the _____day .",
+            "answer": "4th"
+        },
+        {
+            "id": 44,
+            "question": "[Act 27:16] After the tempestuous wind, the ship that Paul boarded was caught, it ran under the shelter of an island called _____",
+            "answer": "Clauda"
+        },
+        {
+            "id": 45,
+            "question": "[Gen 26:2] Who did the Lord appear to, and said,” Do not go down to Egypt; dwell in the land of which I shall tell you. Dwell in this land, and I will be with you, and bless you; …?”",
+            "answer": "ISAAC"
+        },
+        {
+            "id": 46,
+            "question": "[Gen 4:19] _______was the first polygamist [to marry two wives] in the Bible",
+            "answer": "Lamech"
+        },
+        {
+            "id": 47,
+            "question": "[Act 22:7]On Saul's way to Damascus at about noon, suddenly a light shone around him from heaven, Then he fell to the ground and he heard a voice saying. What was the Voice saying to him?",
+            "answer": "Saul, Saul, why are you persecuting me?"
+        },
+        {
+            "id": 48,
+            "question": "God called Abraham a prophet in Genesis _____ .",
+            "answer": "Gen 20:7"
+        },
+        {
+            "id": 49,
+            "question": "[Gen 4;17] Cain had a son called ______.And he built a city, and named it after his son.",
+            "answer": "Enoch"
+        },
+        {
+            "id": 50,
+            "question": "[Acts 2:27] 'For You will not leave my soul in Hades, Nor will You allow Your Holy One to see corruption.' Who made this statement?",
+            "answer": "David"
+        },
+        {
+            "id": 51,
+            "question": "[Gen 20:12] 'Besides she is indeed my sister, the daughter of my father but not the daughter of my mother; and she became my wife.' Who made this statement? And to whom?",
+            "answer": "Abraham to Abimelech"
+        },
+        {
+            "id": 52,
+            "question": "[Gen 23:1-2] Sarah lived ______years and she died at Kirjath-Arba (hebron).",
+            "answer": "127 years"
+          },
+          {
+            "id": 53,
+            "question": "[Gen 23:1-20] Who was the owner of the cave and field of Machpelah that Abraham chose to purchase as a burial place for his wife Sarah?",
+            "answer": "Ephron"
+          },
+          {
+            "id": 54,
+            "question": "[Act 1:12] On a single guess, what mount did the apostle left to Jerusalem on a Sabbath day journey?",
+            "answer": "Olivet"
+          },
+          {
+            "id": 55,
+            "question": "[Gen 21:14] What did Abraham give to Hagar and her son when he sent them out of his house?",
+            "answer": "Bread and a skin of water"
+          },
+          {
+            "id": 56,
+            "question": "[Gen 21:20-21] After Abraham sent Ishmael and Hagar away, where did Ishmael dwell?",
+            "answer": "Wilderness of Paran"
+          },
+          {
+            "id": 57,
+            "question": "[Act 12:2] Who was killed by king Herod with the sword to please the Jews?",
+            "answer": "James"
+          },
+          {
+            "id": 58,
+            "question": "[Gen 21:22] Who is the commander of Abimelech’s army that told Abraham, saying 'God is with you in all you do'?",
+            "answer": "Phicol"
+          },
+          {
+            "id": 59,
+            "question": "The man who previously practiced sorcery in the city Samaria and astonished the people of Samaria, thinking that he was a great power of God is called?",
+            "answer": "Simon (Acts 8:9)"
+          },
+          {
+            "id": 60,
+            "question": "[Gen 19:24-25] What did the Lord rain on Sodom and Gomorrah from the Lord out of the Heaven?",
+            "answer": "Brimstone and fire"
+          },
+          {
+            "id": 61,
+            "question": "Quote the passage that says 'And they continued steadfastly in the apostles’ doctrine and fellowship, in the breaking of bread, and in prayers.'",
+            "answer": "(Acts 2:42)"
+          },
+          {
+            "id": 62,
+            "question": "[Gen 16:14] The well Beer-Lahai-Roi is between _______ and Bered.",
+            "answer": "Kadesh"
+          },
+          {
+            "id": 63,
+            "question": "[Gen 16:16] How old was Abram when Ishmael was born?",
+            "answer": "86 years old"
+          },
+          {
+            "id": 64,
+            "question": "[Act 2:2] The lame man laid daily at the gate of the temple which is called ______.",
+            "answer": "Beautiful"
+          },
+          {
+            "id": 65,
+            "question": "What passage of the book of Genesis was Abram changed to Abraham by God?",
+            "answer": "Gen 17:5"
+          },
+          {
+            "id": 66,
+            "question": "[Gen 17:24] How old was Abraham when he was circumcised in the flesh of his foreskin?",
+            "answer": "99 years"
+          },
+          {
+            "id": 67,
+            "question": "[Act 9:40] Who did Peter raise from the dead in Joppa?",
+            "answer": "Tabitha also known as Dorcas"
+          },
+          {
+            "id": 68,
+            "question": "[Gen 8:6] Which animal did Noah first send out from the ark to see if the water had subsided?",
+            "answer": "A raven"
+          },
+          {
+            "id": 69,
+            "question": "[Gen 5:27] Who was the oldest man to have lived on the earth, dying at the age of 969 years?",
+            "answer": "Methuselah"
+          },
+          {
+            "id": 70,
+            "question": "[Act 10:3] At what time did the man in Caesarea, a centurion, see in a clear vision the angel of the Lord?",
+            "answer": "Ninth hour"
+          },
+          {
+            "id": 71,
+            "question": "Which Chapter of Genesis is the shortest and with how many verses?",
+            "answer": "Gen 16, 16"
+          },
+          {
+            "id": 72,
+            "question": "[Gen 49:5] ____and _____ are brothers; instruments of cruelty are in their dwelling place,” Says Jacob.",
+            "answer": "Simeon, Levi"
+          },
+          {
+            "id": 73,
+            "question": "[Act 18: 2]The Jew Aquila, born in Pontus.  What is his wife's name?",
+            "answer": "Priscilla"
+          },
+          {
+            "id": 74,
+            "question": "[Gen 5:5] How old was Adam when he died?",
+            "answer": "930 years"
+          },
+          {
+            "id": 75,
+            "question": "[Gen 9:28-29] After the flood, how many years did Noah live, making it a total of 950 years at his death?",
+            "answer": "350 years"
+          },
+          {
+            "id": 76,
+            "question": "[Acts 18:6] Who made this statement: 'Your blood be upon your own heads; I am clean. From now on I will go to the Gentiles.'",
+            "answer": "Paul"
+          },
+          {
+            "id": 77,
+            "question": "[Gen 10:8-9] Nimrod, a mighty hunter before the Lord, built several kingdoms (city). What was listed as the beginning of his kingdom (city)?",
+            "answer": "Babel"
+          },
+          {
+            "id": 78,
+            "question": "[Gen 10:8] Who begot Nimrod?",
+            "answer": "Cush"
+          },
+          {
+            "id": 79,
+            "question": "[Acts 18:26] Who did Aquila and Priscilla take aside in the synagogue and explain to him the way of God more accurately?",
+            "answer": "Apollos"
+          },
+          {
+            "id": 80,
+            "question": "The field of blood is also called ____",
+            "answer": "Akel Dama (Act 1:19)"
+          },
+          {
+            "id": 81,
+            "question": "[Gen 14:12] What is the name of Abram’s nephew that was heard captive?",
+            "answer": "Lot"
+          },
+          {
+            "id": 82,
+            "question": "[Act 19:7] What is the number of men that were baptized by Paul in Ephesus after they had been previously baptized by John?",
+            "answer": "Twelve"
+          },
+          {
+            "id": 83,
+            "question": "[Gen 14:18] Which king did Abram give a tithe of all?",
+            "answer": "Melchizedek"
+          },
+          {
+            "id": 84,
+            "question": "[Gen 36:12] Timna was the concubine of ______, she is the mother of Amalek.",
+            "answer": "Eliphaz"
+          },
+          {
+            "id": 85,
+            "question": "[Act 21:8] What's the name of the Evangelist that had four virgins who prophesied?",
+            "answer": "Philip"
+          },
+          {
+            "id": 86,
+            "question": "[Gen 35:28] Isaac died being _____years old.",
+            "answer": "180 years"
+          },
+          {
+            "id": 87,
+            "question": "[Gen 30:20] Leah said, 'God has endowed me with a good endowment; now my husband will dwell with me, because I have borne him six sons; so she call his name _____.",
+            "answer": "Zebulun"
+          },
+          {
+            "id": 88,
+            "question": "[Act 18:3] What is Aquila and Paul's occupation?",
+            "answer": "Tentmakers"
+          },
+          {
+            "id": 89,
+            "question": "Chapter _______ and _______ is the last in the book of Genesis.",
+            "answer": "Gen 50:26"
+          },
+          {
+            "id": 90,
+            "question": "\"So Joseph died being a hundred and ten years old, and they embalmed him, and he was put in a coffin in Egypt.\" State the chapter and verse in a single guess.",
+            "answer": "Gen 50:26"
+          },
+          {
+            "id": 91,
+            "question": "[Act 17:10] Which people were referred to as being more fair-minded than the Thessalonians?",
+            "answer": "Berea"
+          },
+          {
+            "id": 92,
+            "question": "[Gen 50:2] At the death of Israel (Jacob), the physicians embalmed him for how many days?",
+            "answer": "40 days"
+          },
+          {
+            "id": 93,
+            "question": "[Gen 50:3] The Egyptians mourned for how many days when Israel, Joseph’s father died?",
+            "answer": "70"
+          },
+          {
+            "id": 94,
+            "question": "[Act 12:19] What punishment was given to the soldiers guarding Peter's prison, after Herod had searched for him and found him not?",
+            "answer": "They were put to death"
+          },
+          {
+            "id": 95,
+            "question": "[Gen 37:28] Joseph was sold to the Ishmaelite traders for _______ shekels of silver.",
+            "answer": "20 shekels of silver"
+          },
+          {
+            "id": 96,
+            "question": "[Gen 38:6] Judah took a wife for Er his firstborn and her name was ______.",
+            "answer": "Tamar"
+          },
+          {
+            "id": 97,
+            "question": "[Act 7:8] On what day was Isaac circumcised?",
+            "answer": "On the eighth day"
+          },
+          {
+            "id": 98,
+            "question": "[Gen 38:1-] Judah had a friend, a certain Adullamite whose name was ____ .",
+            "answer": "Hirah"
+          },
+          {
+            "id": 99,
+            "question": "[Gen 37:17] Israel sent Joseph in search of his brothers as they were pasturing their flock near Shechem. Where did Joseph find them?",
+            "answer": "Dothan"
+          },
+          {
+            "id": 100,
+            "question": "[Acts 4:11] Who made this statement '‘Stone which was rejected by you builders, which has become the chief cornerstone’’?",
+            "answer": "Peter"
+          },
+          {
+            "id": 101,
+            "question": "[Gen 38:30] Which of Tamar’s twins had the scarlet thread tied to his hand?",
+            "answer": "Zerah"
+          },
+          {
+            "id": 102,
+            "question": "[Gen 38;29-30] Which of Tamar's twins unexpectedly came out first?",
+            "answer": "Perez"
+          },
+          {
+            "id": 103,
+            "question": "[Act 2:13] (Others mocking the apostles on the day of Pentecost said, 'They are full of ----------')",
+            "answer": "New wine"
+          },
+          {
+            "id": 104,
+            "question": "[Gen 41:45] Poti-Phera is a priest of _____.",
+            "answer": "On"
+          },
+          {
+            "id": 105,
+            "question": "[Gen 41:45] Pharaoh gave Joseph a wife, the daughter of Potiphera. What is her name?",
+            "answer": "Asenath"
+          },
+          {
+            "id": 106,
+            "question": "[Act 1:23] Joseph Barsabas's surname was _______.",
+            "answer": "Justus"
+          },
+          {
+            "id": 107,
+            "question": "[Gen 41:45] Pharaoh called Joseph name _____.",
+            "answer": "Zaphenath-paneah"
+          },
+          {
+            "id": 108,
+            "question": "(The former account I made, O Theophilus, of all that Jesus began both to do and teach... Which scripture is being referred to as the former account in Acts 1:1?)",
+            "answer": "Luke"
+          },
+          {
+            "id": 109,
+            "question": "[Gen 42:24] Which of the sons of Israel was remanded in prison while the others took food home to their father with the instruction to return with Benjamin?",
+            "answer": "Simeon"
+          },
+          {
+            "id": 110,
+            "question": "[Gen 10:7-8] List four sons of Cush.",
+            "answer": "Seba, Havilah, Sabtah, Nimrod, Raamah, Sabtechah"
+          },
+          {
+            "id": 111,
+            "question": "[Act 16:7] After Paul and Silas had come to Mysia, they tried to go into _____ but the Holy Spirit did not permit them.",
+            "answer": "Bithynia"
+          },
+          {
+            "id": 112,
+            "question": "[Gen 10;6] _____ is Egypt’s (Mizraim) father.",
+            "answer": "Ham"
+          },
+          {
+            "id": 113,
+            "question": "[Gen 10:15] _____ is Canaan’s first-born.",
+            "answer": "Sidon"
+          },
+          {
+            "id": 114,
+            "question": "[Acts 4:36-37] The name of the man, who genuinely sold his land, brought the money and laid it at the apostles’ feet. Is called what by the apostle.",
+            "answer": "Barnabas"
+          },
+          {
+            "id": 115,
+            "question": "[Gen 11:24] I am Abram’s grandfather as well as Terah’s father. Who am I?",
+            "answer": "Nahor"
+          },
+          {
+            "id": 116,
+            "question": "[Gen 9:11-17] What was the sign of the covenant between God and all living creatures, that He will never again destroy the earth with flood?",
+            "answer": "Rainbow in the Cloud"
+          },
+          {
+            "id": 117,
+            "question": "[Act 5:37] Who rose up in the days of Census and Drew away many people after him? Also perished and all who obeyed him were dispersed.",
+            "answer": "Judas of Galilee"
+          },
+          {
+            "id": 118,
+            "question": "\"Then God said, 'Let us make man in our image, after our likeness;'\" In a single guess state the chapter and verse where this statement found?",
+            "answer": "Gen 1:26a"
+          },
+          {
+            "id": 119,
+            "question": "\"Then the man said, 'This at last is the bone of my bones and flesh of my flesh. She shall be called woman, because she was taken out of man.'\" This scripture is found in _____.",
+            "answer": "Gen 2:23"
+          },
+          {
+            "id": 120,
+            "question": "[Act 9:17] Who laid his hand on Paul to receive back his sight and got baptized?",
+            "answer": "Ananias"
+          },
+          {
+            "id": 121,
+            "question": "“Then the Lord God formed man of the dust from the ground, and breathed into his nostrils the breath of life; and man became a living being.” State the chapter and verse where this statement found.",
+            "answer": "Gen 2:7"
+          },
+          {
+            "id": 122,
+            "question": "[ACT 22:3] Paul was brought up in the city of Jerusalem at the feet of _______.",
+            "answer": "Gamaliel"
+          },
+          {
+            "id": 123,
+            "question": "[Gen 2:15] The Lord God took the man and put him in the garden of Eden to _____.",
+            "answer": "Till it and keep it"
+          },
+          {
+            "id": 124,
+            "question": "[Act 9: 25] Saul escaped Damascus through the wall in a ________?",
+            "answer": "Large basket"
+          },
+          {
+            "id": 125,
+            "question": "[Gen 2:10] A river flowed out of Eden to water the garden, and there divided and became how many riverheads?",
+            "answer": "4 Riverheads"
+          },
+          {
+            "id": 126,
+            "question": "[Gen 2:11] _____ is the name of the first river that flowed through Eden.",
+            "answer": "Pishon"
+          },
+          {
+            "id": 127,
+            "question": "Saul was first called Paul in what passage?",
+            "answer": "Act 13:9"
+          },
+          {
+            "id": 128,
+            "question": "[Act 3:7]\"At the temple gate, the lame man received strength in his ______ and _______ after Peter lifted him up\".",
+            "answer": "Feet and ankle bones"
+          },
+          {
+            "id": 129,
+            "question": "[Gen 2:10-14] River Nile is NOT a river that flows through the Garden of Eden. True/False",
+            "answer": "True"
+          },
+          {
+            "id": 130,
+            "question": "[Act 17:34] The name of the woman that joined Paul and believed in Athens is called?",
+            "answer": "Damaris"
+          },
+          {
+            "id": 131,
+            "question": "[Gen 2:11] Which river flows around the whole land of Havilah, where there is gold, bdellium, and onyx?",
+            "answer": "Pishon"
+          },
+          {
+            "id": 132,
+            "question": "\"Therefore, a man leaves his father and his mother and cleaves to his wife, and they become one flesh.\" State the Bible passage.",
+            "answer": "Gen 2:24"
+          },
+          {
+            "id": 133,
+            "question": "[Act 24:27] Who succeeded Governor Felix?",
+            "answer": "Porcius Festus"
+          },
+          {
+            "id": 134,
+            "question": "[Gen 3:20] The man (Adam) called his wife’s name Eve, because she was _____.",
+            "answer": "The mother of all living"
+          },
+          {
+            "id": 135,
+            "question": "Who wrote the book of ACT?",
+            "answer": "Luke"
+          },
+          {
+            "id": 136,
+            "question": "[Gen 5:3] Who is the father of Seth?",
+            "answer": "Adam"
+          },
+          {
+            "id": 137,
+            "question": "Whose name was first mentioned in the Book of Acts?",
+            "answer": "Theophilus (Act 1:1)"
+          },
+          {
+            "id": 138,
+            "question": "[Gen 24:10] The city of Nahor was in ______?",
+            "answer": "Mesopotamia"
+          },
+          {
+            "id": 139,
+            "question": "[Gen 25:1] ______ was Abraham’s wife after the death of Sarah.",
+            "answer": "Keturah"
+          },
+          {
+            "id": 140,
+            "question": "[ACT 2:14-36] On the Pentecost day, which of the Apostles delivered the sermon?",
+            "answer": "Peter"
+          },
+          {
+            "id": 141,
+            "question": "[Gen 25;20] How old was Isaac when he married Rebekah?",
+            "answer": "40"
+          },
+          {
+            "id": 142,
+            "question": "[Gen 25:20] Rebekah is the daughter of _______ the Aramean of Paddan-aram.",
+            "answer": "Bethuel"
+          },
+          {
+            "id": 143,
+            "question": "[Act 7:56] Who made this statement, 'Look! I see the heavens opened and the Son of Man standing at the right hand of God'?",
+            "answer": "Stephen"
+          },
+          {
+            "id": 144,
+            "question": "[Gen 25:13] ________ is Ishmael’s first-born.",
+            "answer": "Nebajoth"
+          },
+          {
+            "id": 145,
+            "question": "[Gen 25:11] After the death of Abraham, God blessed Isaac his son. And Isaac dwelt at ____.",
+            "answer": "Beer-Lahai-Roi"
+          },
+          {
+            "id": 146,
+            "question": "[Acts 7:30] \"An Angel of the Lord appeared to Moses in a flame of fire in a bush, in the wilderness of ______?",
+            "answer": "Mount Sinai"
+          },
+          {
+            "id": 147,
+            "question": "[Gen 15:7-21] Before God made a covenant with Abram that He will give his descendants the land of Canaan, Abram asked God how he is to know. God asked him to bring five items. How old were the heifer, she-goat, and ram supposed to be?",
+            "answer": "Three years old"
+          },
+          {
+            "id": 148,
+            "question": "[Gen 26:16] What did King Abimelech say to Isaac that prompted him to move and encamp in the valley of Gerar and dwell there?",
+            "answer": "\"Go away from us; for you are much mightier than we.\""
+          },
+          {
+            "id": 149,
+            "question": "[Act 9:33] Aeneas was bedridden and paralyzed for how many years?",
+            "answer": "8 years"
+          },
+          {
+            "id": 150,
+            "question": "[Gen 26:34-35] In this chapter, it is recorded that the wives Esau married were very fond of Isaac and Rebekah. They even assisted them with chores; this made Esau’s parents happy and delighted to have them as in-laws. (True or False)",
+            "answer": "False: They were a grief of mind to Isaac and Rebekah"
+          },
+          {
+            "id": 151,
+            "question": "[Act 9:35] In which two places did all that dwell in turn to the Lord after Peter healed Aeneas?",
+            "answer": "Lydda and Sharon"
+          },
+          {
+            "id": 152,
+            "question": "[Gen 27:4] Isaac said to Esau, \"… make me ______ food, such as I love … \"",
+            "answer": "Savory"
+          },
+          {
+            "id": 153,
+            "question": "[Act 16: 14-15] What is the name of the woman Paul baptized at Philippi, a part of Macedonia?",
+            "answer": "Lydia"
+          },
+          {
+            "id": 154,
+            "question": "[Gen 8:1-3] In the days of Noah, as the rain fell and consequent flood on the earth, when God remembered Noah and all the living creatures in the ark, what did God do to make the rain restrain and the water subside?",
+            "answer": "God made a wind to pass over the earth"
+          },
+          {
+            "id": 155,
+            "question": "[Gen 8:10] After Noah sent the first dove that could not find where to land and returned to the ark, how long did Noah wait before again sending the dove?",
+            "answer": "7 days"
+          },
+          {
+            "id": 156,
+            "question": "[Act 17:23] What was the inscription Paul found on the altar of the religious Athens?",
+            "answer": "To the Unknown God"
+          },
+          {
+            "id": 157,
+            "question": "[Gen 15:7-21] Before God made a covenant with Abram that He will give his descendants the land of Canaan, Abram asked God how he is to know. God asked him to bring five items. How old were the heifer, she-goat, and ram supposed to be?",
+            "answer": "Three years old"
+          },
+          {
+            "id": 158,
+            "question": "[Gen 19:4-6] When the men of Sodom demanded that Lot release the two men that he hosted for them to “know them.” Lot begged them not to act so wickedly. Instead, Lot was willing to give them _______ to do whatever they please.",
+            "answer": "His two daughters who have not known man"
+          },
+          {
+            "id": 159,
+            "question": "[Act 24:7] What is the name of the commander that sent Paul to Governor Felix?",
+            "answer": "Lysias"
+          },
+          {
+            "id": 160,
+            "question": "The story of Esau selling his birthright to Jacob for bread and pottage of lentils is in chapter ____.",
+            "answer": "Gen 25"
+          },
+          {
+            "id": 161,
+            "question": "[Gen 31:19]  ______ stole his/her father’s household idols.",
+            "answer": "Rachel"
+          },
+          {
+            "id": 162,
+            "question": "[Act 27:37] What is the total number of people in the ship that was taking Paul to Rome to meet Caesar?",
+            "answer": "Two hundred and seventy-six"
+          },
+          {
+            "id": 163,
+            "question": "[Gen 31:20] And Jacob stole away unknown to Laban the Syrian in that he told him that he intended to flee. (True or false)",
+            "answer": "False: Jacob did not tell him that he intended to flee"
+          },
+          {
+            "id": 164,
+            "question": "[Gen 30:8] Then Rachel said, “With mighty wrestling I have wrestled with my sister, and indeed I have prevailed; so she called his name ______",
+            "answer": "Naphtali"
+          },
+          {
+            "id": 165,
+            "question": "[Act 12:13] What is the name of the girl that came to answer Peter when he knocked at Mary’s gate?",
+            "answer": "Rhoda"
+          },
+          {
+            "id": 166,
+            "question": "[Gen 20:16] Abimelech said to Sarah, 'Behold I have given your brother ______; it is your vindication in the eyes of all who are with you; and before everyone you are righted.'",
+            "answer": "A thousand pieces of silver"
+          },
+          {
+            "id": 167,
+            "question": "[Gen 5:3] Adam was 130 years when he begot Seth, in his own likeness. After the birth of Seth, Adam lived ______ years more before his death.",
+            "answer": "800 years"
+          },
+          {
+            "id": 168,
+            "question": "[Act 4:13-17] ______ and ______ were perceived as uneducated and untrained, and were severely threatened not to speak the name of Jesus furthermore.",
+            "answer": "Peter and John"
+          },
+          {
+            "id": 169,
+            "question": "[Gen 4:20] _______ is the father of those that dwell in tents and have livestock, while _____ is the father of those who play harps and flute.",
+            "answer": "Jabal, Jubal"
+          },
+          {
+            "id": 170,
+            "question": "[Gen 11:3] Men migrated and settled in the land of Shinar. Since they had just one language, they decided to build a city, and a tower with its top in the heavens. They had ____ for stones, and ____ for mortar.",
+            "answer": "Brick, asphalt"
+          },
+          {
+            "id": 171,
+            "question": "[Acts 2:15] Who made this statement? 'For these are not drunk, as you suppose, since it is only the third hour of the day'.",
+            "answer": "Peter"
+          },
+          {
+            "id": 172,
+            "question": "[Gen 10:11] ______ is a city Nimrod built as he moved to Assyria.",
+            "answer": "Nineveh"
+          },
+          {
+            "id": 173,
+            "question": "[Gen 26:15] The inhabitants of the land of Gerar are the______.",
+            "answer": "Philistines"
+          },
+          {
+            "id": 174,
+            "question": "[Acts 3:1] They went together to the temple at the hour of prayer. What hour is the hour of prayer?",
+            "answer": "The ninth hour"
+          },
+          {
+            "id": 175,
+            "question": "[Gen 15:12-13] As Abram fell into a deep sleep, God told him that his descendants will be slaves and sojourners in a strange land and they will be oppressed _____ years.",
+            "answer": "400 years"
+          },
+          {
+            "id": 176,
+            "question": "[Gen 29] Leah and Rachel were the daughters of _____?",
+            "answer": "Laban"
+          },
+          {
+            "id": 177,
+            "question": "[Acts 2:34,35] Fill in the blanks: 'Sit at My right hand, Till I make Your -------- Your ----------.'",
+            "answer": "Enemies and Footstool"
+          },
+          {
+            "id": 178,
+            "question": "[Gen 25:25] At birth; I came forth red, and was like a hairy garment all over; so they called me ____",
+            "answer": "Esau"
+          },
+          {
+            "id": 179,
+            "question": "[Acts 3:22] Who said 'The Lord your God will raise up for you a Prophet like me from your brethren. Him you shall hear in all things, whatever He says to you'?",
+            "answer": "Moses"
+          },
+          {
+            "id": 180,
+            "question": "[Act 2:43] About how many souls were added to the church on Pentecost day?",
+            "answer": "Three thousand souls"
+          },
+          {
+            "id": 181,
+            "question": "[Gen 25:2] Keturah was the mother of Midian; meaning the Midianites are descendants of Abraham. True/False",
+            "answer": "True"
+          },
+          {
+            "id": 182,
+            "question": "[Act 15: 37-39] Who was the cause of Barnabas' departure from Paul?",
+            "answer": "John also called Mark"
+          },
+          {
+            "id": 183,
+            "question": "[Gen 25:6] Ishmael had ten sons; which were the ten princes to their tribes. Answer FALSE = TWELVE SONS/ PRINCE",
+            "answer": "False"
+          },
+          {
+            "id": 184,
+            "question": "[Gen 38:5] Where was Judah’s wife when she bore her third son Shelah?",
+            "answer": "Chezib"
+          },
+          {
+            "id": 185,
+            "question": "[Act 20:9] What is the name of the man who was overcome by sleep and fell down from the third story and was taken up dead?",
+            "answer": "Eutychus"
+          }
+      ]
+}

@@ -6,7 +6,7 @@ const SignIn = () => {
   return (
     <>
       <div>
-        <div className="container mx-auto sm:pt-56 gap-10 px-4 py-4 h-screen mt-10  sm:flex">
+        <div className="container mx-auto sm:justify-around sm:pt-56 gap-10 px-4 py-4 h-screen mt-10  sm:flex">
           {/* Left side */}
           <LogoAppear
             pageTitle="Sign In"

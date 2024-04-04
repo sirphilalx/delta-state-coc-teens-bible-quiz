@@ -6,7 +6,7 @@ const SignUp = () => {
   return (
     <>
       <div>
-        <div className="container mx-auto sm:justify-between sm:pt-56 gap-10 px-4 py-4 h-screen mt-10  sm:flex">
+        <div className="container mx-auto sm:justify-around sm:pt-56 gap-10 px-4 py-4 h-screen mt-10  sm:flex">
           {/* Left side */}
           <LogoAppear
             pageTitle="Sign Up"
@@ -36,7 +36,7 @@ const SignUp = () => {
                 className="border-b rounded px-5 py-3 outline-none"
               />
               <button className="border py-3 rounded bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white mt-5">
-                Sign In
+                Sign Up
               </button>
             </form>
             <p className="mt-3 text-center">

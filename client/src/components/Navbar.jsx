@@ -20,7 +20,7 @@ const Navbar = () => {
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/contact">Contact</Link>
-            <Link to="/questions">Questions</Link>
+            <Link to="/questionDashboard">Questions</Link>
           </div>
         </div>
         <div className="sm:hidden">
@@ -58,7 +58,7 @@ const Navbar = () => {
               Contact
             </Link>
             <Link
-              to="/questions"
+              to="/questionDashboard"
               className="py-2 hover:bg-gray-50 flex justify-center"
             >
               Questions
