@@ -33,7 +33,7 @@ const Navbar = () => {
           </button>
         </div>
         <div className="hidden sm:block">
-          <button className="px-6 py-2 border rounded hover:bg-blue-50 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
+          <button className="px-6 py-2 border rounded hover:bg-blue-50 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white shadow-lg">
             <Link to="/signIn">Sign In</Link>
           </button>
         </div>
@@ -41,7 +41,7 @@ const Navbar = () => {
       {/* Mobile menu */}
       {isOpen && (
         <div className="sm:hidden flex flex-col justify-center">
-          <div className="flex flex-col justify-center gap-2 px-4 py-4 mx-2 border shadow rounded">
+          <div className="flex flex-col justify-center gap-2 px-4 py-4  border rounded">
             <Link to="/" className="py-2 hover:bg-gray-50 flex justify-center">
               Home
             </Link>
@@ -64,7 +64,7 @@ const Navbar = () => {
               Questions
             </Link>
             <div className="sm:block border-t w-full flex justify-center mt-4">
-              <button className="w-full py-3 border rounded hover:bg-blue-50 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white">
+              <button className="w-full py-3 border rounded hover:bg-blue-50 bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 text-white shadow-lg">
                 <Link to="/signIn">Sign In</Link>
               </button>
             </div>
