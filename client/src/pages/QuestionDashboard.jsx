@@ -31,7 +31,7 @@ const QuestionDashboard = () => {
   }, []);
 
   return (
-    <div className=" mt-0 py-10">
+    <div className=" mt-0 py-10 bg-blue-50">
       <div className=" mx-5 my-5 sm:mx-20 text-center">
         <h1 className="my-5 text-4xl ">Welcome to the Question Page</h1>
         <p className="text-lg">Select your question</p>

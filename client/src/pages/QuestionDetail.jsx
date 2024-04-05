@@ -45,25 +45,27 @@ const QuestionDetail = () => {
 
   return (
     <div>
-      <div className="">
+      <div className="flex flex-col bg-blue-50 h-screen items-center justify-center">
         <h1>Question Detail Page</h1>
-        <div className="flex items-center justify-content-center mt-5 p-5">
+        <div className="flex items-center sm:w-[1200px] bg-white justify-content-center  mt-5 p-5">
           {questionData && (
-            <div className="m-auto w-full text-center p-5 border">
+            <div className="m-auto w-full text-center p-5 flex flex-col gap-5 border">
               {timer > 0 && (
-                <h3 className="text-red-500 text-2xl">{`00:${
+                <h3 className="text-red-500 text-4xl ">{`00:${
                   timer < 10 ? "0" : ""
                 }${timer}`}</h3>
               )}
               {timer === 0 && (
-                <h3 className="text-red-500 text-2xl">TIME UP!</h3>
+                <h3 className="text-red-500 text-4xl">TIME UP!</h3>
               )}
               {/* {timer === 0 && setShowAnswer(true)} */}
-              <h2 className="text-2xl">Question {questionData.id}</h2>
+              <h2 className="text-4xl font-thin mt-10">
+                Question {questionData.id}
+              </h2>
 
-              <p className="text-lg mt-5">{questionData.question}</p>
+              <p className="text-4xl mt-10">{questionData.question}</p>
               {showAnswer && (
-                <p className="text-lg w-20 mx-auto text-red-500 mt-5 text-uppercase">
+                <p className="text-4xl w-20 mx-auto text-red-500 mt-10 text-uppercase">
                   {questionData.answer}
                 </p>
               )}
